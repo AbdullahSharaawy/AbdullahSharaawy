@@ -21,4 +21,6 @@
 ### 📈 Activity Graph
 ![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahSharaawy&theme=github-dark)
 
+![Abdullah's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahSharaawy&theme=dracula&area=true&hide_border=true)
+
 
