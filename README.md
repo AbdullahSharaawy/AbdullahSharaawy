@@ -1,7 +1,7 @@
  # Hi, I'm Abdullah Sharaawy! 👋
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abdullah+Sharaawy;Software+Engineer;ASP.NET+MVC+Developer;C%2B%2B+%26+Java+Enthusiast;Team+Leader+%26+Problem+Solver">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abdullah+Sharaawy;Software+Engineer;ASP.NET+Core+Developer;C%2B%2B+%26+Java+Enthusiast;Team+Leader+%26+Problem+Solver">
 </p>
 
 <p align="center">
